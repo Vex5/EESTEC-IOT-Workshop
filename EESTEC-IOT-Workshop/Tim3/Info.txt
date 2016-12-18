@@ -1,0 +1,4 @@
+ReceiveIoTHubMsg prima broj sa clouda i deploya se na mob 
+MsgToIoTHub salje broj na cloud i deploya se na raspberry 
+
+Potrebno je napraviti izmjene u kodu u oba foldera: deviceID itd.

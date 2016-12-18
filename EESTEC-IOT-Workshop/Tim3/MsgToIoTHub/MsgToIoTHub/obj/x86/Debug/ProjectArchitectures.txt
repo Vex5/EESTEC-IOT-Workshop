@@ -1,0 +1,1 @@
+C:\Users\ETF-LAB-1-11\Desktop\Tim3-master\MsgToIoTHub\MsgToIoTHub\MsgToIoTHub.csproj;x86

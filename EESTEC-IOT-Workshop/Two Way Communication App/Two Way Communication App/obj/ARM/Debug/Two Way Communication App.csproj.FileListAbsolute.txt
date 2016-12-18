@@ -1,0 +1,11 @@
+C:\Users\ETF-LAB-1-11\Desktop\MainRepository-master\Two Way Communication App\Two Way Communication App\obj\ARM\Debug\Two Way Communication App.csprojResolveAssemblyReference.cache
+C:\Users\ETF-LAB-1-11\Desktop\MainRepository-master\Two Way Communication App\Two Way Communication App\obj\ARM\Debug\App.g.i.cs
+C:\Users\ETF-LAB-1-11\Desktop\MainRepository-master\Two Way Communication App\Two Way Communication App\obj\ARM\Debug\App.g.cs
+C:\Users\ETF-LAB-1-11\Desktop\MainRepository-master\Two Way Communication App\Two Way Communication App\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\ETF-LAB-1-11\Desktop\MainRepository-master\Two Way Communication App\Two Way Communication App\obj\ARM\Debug\MainPage.g.cs
+C:\Users\ETF-LAB-1-11\Desktop\MainRepository-master\Two Way Communication App\Two Way Communication App\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\ETF-LAB-1-11\Desktop\MainRepository-master\Two Way Communication App\Two Way Communication App\obj\ARM\Debug\App.xaml
+C:\Users\ETF-LAB-1-11\Desktop\MainRepository-master\Two Way Communication App\Two Way Communication App\obj\ARM\Debug\MainPage.xaml
+C:\Users\ETF-LAB-1-11\Desktop\MainRepository-master\Two Way Communication App\Two Way Communication App\obj\ARM\Debug\App.xbf
+C:\Users\ETF-LAB-1-11\Desktop\MainRepository-master\Two Way Communication App\Two Way Communication App\obj\ARM\Debug\MainPage.xbf
+C:\Users\ETF-LAB-1-11\Desktop\MainRepository-master\Two Way Communication App\Two Way Communication App\obj\ARM\Debug\XamlSaveStateFile.xml
